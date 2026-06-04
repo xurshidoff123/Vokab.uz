@@ -13,7 +13,7 @@ from aiogram.types import (
 from aiogram.utils.keyboard import InlineKeyboardBuilder, ReplyKeyboardBuilder
 
 # ========== CONFIG ==========
-BOT_TOKEN = "8934892901:AAFKjtRPyUhAIAqd9yiEyiOtVPDuW-S_AAo"  # @BotFather dan olingan
+BOT_TOKEN = "8934892901:AAHNOg-3XM3De2uyb0BKclfqxu3zCSojHq0"  # @BotFather dan olingan
 CHANNEL_ID = "@vokab_uz"           # Kanal username
 ADMIN_IDS = [123456789]            # Admin Telegram ID
 
